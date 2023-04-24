@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: white;
+   
+}
+a {
+    width: 216px;
+    height: 24px;
+text-decoration: none;
+padding: 20px;
+margin-left: 124px;
+color: #1E1E1E;
+}
+.Products {
+   color: #1E1E1E80;
+
+}
+.Contacts {
+    color: #1E1E1E80;  
+}
+.main-container {
+    display: flex;
+    width: 1248px;
+height: 512px;
+background: #C1DCDC;
+border-radius: 24px;
+margin-left: 50px;
+margin-top: 20px;
+}
+.title {
+    padding: 25px;
+    width: 412px;
+    height: 128px;
+    font-weight: 800;
+font-size: 64px;
+line-height: 64px;
+color: #000000;
+}
+.p50 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    margin-left: 30px;
+}
+.Plant-Species {
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+margin-left: 30px;
+margin-top: -30px;
+}
+#vl {
+    width: 64px;
+height: 0px;
+border: 1px solid #1E1E1E;
+transform: rotate(90deg);
+margin-left: 130px;
+margin-top: -52px;
+}
+.p100 {
+    font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+margin-left: 195px;
+margin-top: -45px;
+}
+.Customers {
+    font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+margin-left: 198px;
+margin-top: -30px;
+}
+
+
+.search {
+    background-color: #C1DCDC;;
+    border-radius: 12px;
+    display: inline-block;
+    position: relative;
+    
+}
+.fa-search {
+    position: absolute;
+    right: 24px;
+    top: 23px;
+    background: #C1DCDC;
+border-radius: 12px;
+
+
+}
+.s {
+    width: 449px;
+    height: 64px;
+    background: #FFFFFF;
+border-radius: 12px;
+border: none;
+margin-left: 30px;
+padding: 20px;
+outline: none;
+}
+.search-button{
+    position: absolute;
+    width: 48px;
+height: 48px;
+padding: 5px;
+top:8px;
+right: 8px;
+background: #C1DCDC;
+border-radius: 12px;
+border: none;
+}
+.Vector-img {
+    position: relative;
+   
+    
+}
+.v186 {
+    position: absolute;
+  margin-left: 510px;
+  margin-top:-60px; 
+}
+.green-flower {
+    position: absolute;
+  margin-left: 790px;
+  margin-top:-301px;
+ 
+}
+.v187 {
+    position: absolute;
+  margin-left: 1150px;
+  margin-top:-300px;
+}
+.box-black {
+    
+    margin-left: 720px;
+    margin-top:-207px; 
+    width: 450px;
+height: 400px;
+background: #1E1E1E;
+border-radius: 200px 200px 0px 200px;  
+}
